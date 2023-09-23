@@ -1,4 +1,4 @@
-<h1 align="center" style="color: white">does cool stuff from time to time</h1>
+<p align="center" >does cool stuff from time to time</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspectise&label=Profile%20views&color=0e75b6&style=flat" alt="aspectise" /> </p>
 
